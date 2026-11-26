@@ -1,0 +1,8 @@
+test_model_shape (test_core.Tests.test_model_shape) ... ok
+test_pipeline (test_core.Tests.test_pipeline) ... ok
+test_projection (test_core.Tests.test_projection) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.205s
+
+OK
